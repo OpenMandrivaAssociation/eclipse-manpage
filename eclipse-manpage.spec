@@ -3,7 +3,7 @@
 
 Name:           eclipse-manpage
 Version:        0.0.1
-Release:        0.svn24060.1.1
+Release:        0.svn24060.1.3
 Summary:        Man page viewer
 
 Group:          Development/Java
