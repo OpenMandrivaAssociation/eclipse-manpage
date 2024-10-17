@@ -8,7 +8,7 @@ Summary:        Man page viewer
 
 Group:          Development/Java
 License:        EPL
-URL:            http://www.eclipse.org/linuxtools/projectPages/manpage/
+URL:            https://www.eclipse.org/linuxtools/projectPages/manpage/
 ## sh %{name}-fetch-src.sh
 Source0:        %{name}-%{version}.tar.bz2
 Source1:        %{name}-fetch-src.sh
